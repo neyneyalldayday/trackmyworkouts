@@ -10,10 +10,18 @@ html,
 body,
 .wrapper {
   height: 100%;
+  background-image: url(workouthmwk.jpg);  
+  background-size: 100%; 
+  object-fit: cover;
+  object-position: center;
+
 }
 
+
 body {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+ font-family: 'Permanent Marker', cursive;
+
+ 
 }
 
 nav {
@@ -23,6 +31,7 @@ nav {
   padding: 10px;
   line-height: 3;
   font-size: 1.2rem;
+  isolation: isolate;
 }
 
 a,
@@ -34,6 +43,7 @@ a:visited {
 }
 
 header {
+  font-family: 'Permanent Marker', cursive;
   height: 150px;
   padding-top: 80px;
   text-align: center;
@@ -41,10 +51,12 @@ header {
 }
 
 header h1 {
+  font-family: 'Permanent Marker', cursive;
   transform: skewX(-2deg);
 }
 
 select {
+  font-family: 'Permanent Marker', cursive;
   display: block;
   -moz-appearance: none;
   -webkit-appearance: none;
@@ -104,6 +116,7 @@ input {
 .m-auto {
   margin: 0 auto;
   width: 500px;
+  opacity: 1;
 }
 
 form .workout-type,
@@ -114,6 +127,7 @@ form .resistance-form div {
 }
 
 form label {
+  
   width: 150px;
   margin-top: 0.7rem;
 }
@@ -136,6 +150,8 @@ form::after {
 .exercise .ui.card {
   width: 400px;
   max-width: 600px;
+  background-blend-mode: unset;
+   
 }
 
 .exercise .buttons {
@@ -435,3 +451,12 @@ form > button {
     right: -320px;
   }
 }
+h2 {
+  font-family: 'Permanent Marker', cursive;
+}
+h1 {
+  color: rgb(226, 154, 21);
+  -webkit-text-stroke: 1.11px rgba(12, 12, 2, 0.959); 
+  -webkit-font-smoothing: antialiased;
+}
+
