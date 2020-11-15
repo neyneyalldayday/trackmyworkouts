@@ -459,4 +459,9 @@ h1 {
   -webkit-text-stroke: 1.11px rgba(12, 12, 2, 0.959); 
   -webkit-font-smoothing: antialiased;
 }
-
+.chartjs-size-monitor{
+  
+}
+#page2{
+  font-family: 'Permanent Marker', cursive;;
+}
