@@ -12,6 +12,8 @@ const app =express();
 
  mongoose.connect(process.envMONGODB_URI || "mongodb://localhost/workout", {
      useNewUrlParser: true,
+     useUnifiedTopology: true,
+     useCreateIndex: true,
      useFindAndModify: false
  });
 
