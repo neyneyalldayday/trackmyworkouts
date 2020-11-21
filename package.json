@@ -1,0 +1,26 @@
+{
+  "name": "trackmyworkouts",
+  "version": "1.0.0",
+  "description": "this project will let you add a workout regimen to your week. you can create a workout, or continue an old one. you can even change the criteria of each workout. Time, duration, weight, reps and sets etc. the is also a dashboard available to let you track your progress as you go.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "mongoose": "^5.10.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neyneyalldayday/trackmyworkouts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neyneyalldayday/trackmyworkouts/issues"
+  },
+  "homepage": "https://github.com/neyneyalldayday/trackmyworkouts#readme"
+}
