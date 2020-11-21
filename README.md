@@ -3,6 +3,10 @@
 ## Description
  
 this project will let you add a workout regimen to your week. you can create a workout, or continue an old one. you can even change the criteria of each workout. Time, duration, weight, reps and sets etc. the is also a dashboard available to let you track your progress as you go.
+![homeworkscreenshot](https://user-images.githubusercontent.com/65675240/99296423-5f636480-280c-11eb-8f86-3dda4d104a06.PNG)
+![homeworkscreenshot2](https://user-images.githubusercontent.com/65675240/99296426-612d2800-280c-11eb-998a-ce1716702894.PNG)
+![homework screenschot 3](https://user-images.githubusercontent.com/65675240/99296429-62f6eb80-280c-11eb-8ee7-1409b213bc51.PNG)
+![homeworkscreenshot4](https://user-images.githubusercontent.com/65675240/99296432-64c0af00-280c-11eb-9b66-a15d2fe8d85b.PNG)
  
 ## Table of Contents
  
