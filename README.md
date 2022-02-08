@@ -1,4 +1,6 @@
 # fitness tracker
+![onni-anttoora-5K8RnvDKBr4-unsplash](https://user-images.githubusercontent.com/65675240/153094636-356fd730-b002-4fef-955f-afb51ff522cc.jpg)
+
  
 ## Description
  
